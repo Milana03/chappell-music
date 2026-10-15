@@ -19,6 +19,7 @@ body {
   height: 530px;
   border-radius: 15px;
   box-shadow: 0 15px 20px 10px #871b58;
+   background-image: url("https://raw.githack.com/Milana03/chappell-music/3aec0ecadbe14496eeedf1d7222ecba2f58fba00/chappell-roan-_-the-rise-and-the-fall-of-the-midwest-princess-album-poster_1.png");
 }
 
 .player input[type=range] {
